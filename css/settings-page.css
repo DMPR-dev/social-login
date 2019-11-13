@@ -1,0 +1,19 @@
+.container-tab-contents
+{
+	display: none;
+	margin-top:15px !important;
+}
+.nav.nav-tabs li a.bootstrap-tab-link, input
+{
+	text-decoration: none !important;
+	outline: 0 !important;
+	box-shadow: none !important;
+}
+label
+{
+	margin:0;
+}
+label.radio-label
+{
+	margin-left: 5px;
+}

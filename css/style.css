@@ -1,0 +1,25 @@
+.social-login-link
+{
+	display: flex;
+	padding: 15px;
+	margin:auto;
+	text-align: center;
+	justify-content: center;
+	align-content: center;
+	border:1px solid silver;
+	border-radius: 3px;
+	margin-bottom: 5px;
+	text-decoration: none;
+	transition: 0.3s;
+	color:inherit;
+	line-height: 1.8;
+}
+.social-login-link i
+{
+	font-size: 24px;
+	margin-right: 10px;
+}
+.social-login-link:last-child
+{
+	margin-bottom: 15px;
+}
